@@ -80,9 +80,9 @@ module.exports = {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Oscar Miras](https://omiras.github.io/)
+- Frontend Mentor - [@omiras](https://www.frontendmentor.io/profile/omiras)
+- Linkedin - [Oscar Miras](https://www.linkedin.com/in/mirasortiz/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
