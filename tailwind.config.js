@@ -18,7 +18,7 @@ module.exports = {
 
     extend: {
       backgroundImage: {
-        "thankyou-illustration": "url('/images/illustration-thank-you.svg')",
+        "thankyou-illustration": "url('./images/illustration-thank-you.svg')",
       },
     },
   },
