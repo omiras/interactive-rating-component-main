@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Front End Mentor Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-XOC_qaZ8Gt)
+- [Live Site](https://omiras.github.io/interactive-rating-component-main/)
 
 ## Built with
 
