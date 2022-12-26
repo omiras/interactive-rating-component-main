@@ -543,6 +543,10 @@ html {
   margin-top: 0.5rem;
 }
 
+.inline-block{
+  display: inline-block;
+}
+
 .flex{
   display: flex;
 }
@@ -555,6 +559,18 @@ html {
   height: 7rem;
 }
 
+.h-96{
+  height: 24rem;
+}
+
+.h-\[500px\]{
+  height: 500px;
+}
+
+.h-\[700px\]{
+  height: 700px;
+}
+
 .w-screen{
   width: 100vw;
 }
@@ -563,8 +579,49 @@ html {
   width: 11rem;
 }
 
+.w-11\/12{
+  width: 91.666667%;
+}
+
+.w-3\/4{
+  width: 75%;
+}
+
+.w-4\/5{
+  width: 80%;
+}
+
+.w-\[100px\]{
+  width: 100px;
+}
+
+.w-2\/3{
+  width: 66.666667%;
+}
+
 .max-w-xs{
   max-width: 20rem;
+}
+
+.max-w-md{
+  max-width: 28rem;
+}
+
+.max-w-fit{
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+}
+
+.max-w-\[24rem\]{
+  max-width: 24rem;
+}
+
+.max-w-\[23rem\]{
+  max-width: 23rem;
+}
+
+.max-w-\[22rem\]{
+  max-width: 22rem;
 }
 
 .flex-grow-0{
@@ -593,6 +650,10 @@ html {
 
 .gap-4{
   gap: 1rem;
+}
+
+.gap-2{
+  gap: 0.5rem;
 }
 
 .self-start{
@@ -651,6 +712,10 @@ html {
   padding: 0.75rem;
 }
 
+.p-2\.5{
+  padding: 0.625rem;
+}
+
 .py-2{
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -671,12 +736,48 @@ html {
   padding-bottom: 0.25rem;
 }
 
+.py-5{
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+.px-7{
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+}
+
+.px-10{
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.px-3{
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
 .pb-4{
   padding-bottom: 1rem;
 }
 
+.pt-2{
+  padding-top: 0.5rem;
+}
+
+.pb-1{
+  padding-bottom: 0.25rem;
+}
+
 .text-center{
   text-align: center;
+}
+
+.align-baseline{
+  vertical-align: baseline;
+}
+
+.align-middle{
+  vertical-align: middle;
 }
 
 .text-2xl{
@@ -686,6 +787,16 @@ html {
 
 .text-\[15px\]{
   font-size: 15px;
+}
+
+.text-base{
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.text-sm{
+  font-size: 0.875rem;
+  line-height: 1.25rem;
 }
 
 .font-bold{
